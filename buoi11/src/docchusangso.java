@@ -5,7 +5,7 @@ public class docchusangso {
         System.out.println("Nhap so can doc: ");
         Scanner sc = new Scanner(System.in);
        int number = sc.nextInt();
-       
+
        switch (number){
            case 0 :
                System.out.println("Zero");
